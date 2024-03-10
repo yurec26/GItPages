@@ -5,4 +5,4 @@ I live in Kazakhstan, the capital of, _Astana_
 
 #### I used to be a seaman for a 8 years but currently study programming
 
-![my hobby](C:\Users\Юрий\Desktop\_MG_1205.JPG)
+![my hobby](C:\Users\Юрий\Desktop\GitPages\_MG_1205.JPG)
